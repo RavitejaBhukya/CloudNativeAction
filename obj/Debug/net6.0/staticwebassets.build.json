@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "45o5NzN2L3Zkou0XJgX5VIrxnFNiRhxfH6rJmCBeZvI=",
+  "Source": "CloudNativeLab1",
+  "BasePath": "_content/CloudNativeLab1",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
